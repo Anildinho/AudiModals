@@ -1,0 +1,295 @@
+@font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedNormal_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedNormal_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-Italic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-Italic_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-BoldItalic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-BoldItalic_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-Bold_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-Bold_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedItalic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedItalic_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Wide';
+    src: url('../fonts/AudiType-WideLight_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-WideLight_4.03.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-Normal_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-Normal_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Wide';
+    src: url('../fonts/AudiType-WideBold_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-WideBold_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Wide';
+    src: url('../fonts/AudiType-WideNormal_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-WideNormal_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedBold_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedBold_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedBoldItalic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedBoldItalic_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedNormal_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedNormal_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Wide';
+    src: url('../fonts/AudiType-WideLight_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-WideLight_4.03.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-Italic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-Italic_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedItalic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedItalic_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedBoldItalic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedBoldItalic_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Wide';
+    src: url('../fonts/AudiType-WideNormal_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-WideNormal_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-BoldItalic_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-BoldItalic_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-Normal_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-Normal_4.03.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Wide';
+    src: url('../fonts/AudiType-WideBold_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-WideBold_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type Extended';
+    src: url('../fonts/AudiType-ExtendedBold_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-ExtendedBold_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}  @font-face {
+    font-family: 'Audi Type';
+    src: url('../fonts/AudiType-Bold_4.03.woff2') format('woff2'),
+    url('../fonts/AudiType-Bold_4.03.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+body{
+    max-width: 1050px;
+    max-height: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F8F8F8;
+}
+
+h1{
+    font-family: "Audi Type Wide";
+    text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6, button{
+    font-family: "Audi Type Wide";
+    font-weight: bold;
+}
+
+h5{
+    font-size: 1em;
+}
+
+p{
+    font-family: "Audi Type Wide";
+    font-size: 14px;
+}
+
+.p2{
+    font-family: "Audi Type Wide";
+    font-size: 12px;
+    font-weight: normal;
+}
+.p2Lite{
+    font-family: "Audi Type Wide";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+/**/
+
+.emissionInfo{
+    padding: 10px 0 10px 0;
+    line-height: 50%;
+}
+
+.emissionInfo2{
+    padding: 10px 0 10px 0;
+    line-height: 90%;
+}
+
+.btnOverlay{
+    border: 1px solid #000000;
+    border-radius: 0;
+    font-family: "Audi Type Wide";
+    font-size: 16px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    padding: 15px 30px;
+}
+
+.emptySpace{
+    margin-top: 44px;
+}
+
+.intro-logo{
+    margin-top: 20px;
+    width: 100%;
+    margin-left: -20px;
+}
+
+.intro-car{
+    margin-left: -90px;
+    width: 150%;
+    margin-top: -60px;
+}
+
+.rowBox{
+    position: relative;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    margin: 10px 10px 10px 0;
+    max-width: 340px;
+}
+
+.rowTitleBox{
+    margin-top: 20px;
+}
+
+.rowCarImg{
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: -30px;
+}
+
+/**/
+.mainHeader{
+    margin: 20px 0 20px 0;
+}
+
+
+.navbarText{
+    font-family: "Audi Type Wide";
+    font-weight: bold;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.lineHeight{
+    line-height: 60%;
+}
+
+.btnConfig{
+    width: 100%;
+}
+
+.container{
+    max-width: 1080px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
